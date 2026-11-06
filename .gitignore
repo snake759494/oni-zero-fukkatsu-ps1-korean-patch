@@ -1,0 +1,25 @@
+# 게임 원본·원본 유래 산출물 (배포하지 않음)
+*.bin
+*.cue
+*.xdelta
+orig/
+gfx/
+refs.pkl
+text/src/
+text/ja_all.json
+text/misc_raw.json
+text/misc_ja.json
+text/hash_ja.json
+build.log
+
+# 글꼴·외부 실행 파일·이미지
+fonts/
+*.ttf
+*.otf
+*.exe
+*.dll
+*.png
+
+# 파이썬
+__pycache__/
+*.pyc
